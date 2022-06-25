@@ -1,0 +1,74 @@
+body{
+    background-image: linear-gradient(to right, #444863 , #0000cc);
+}
+
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+
+.name{
+    margin-top: 10px;
+    margin-right: 150px;
+}
+
+.box2{
+    margin: 5px;
+    padding:10px;
+    margin-left: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.gojo1{
+    border-radius: 8px;    
+    width: 250px;
+    margin-left: 200px;
+}
+
+.pics {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic1{
+    width:6cm;
+    border-radius: 8px;
+    border: 10px solid white;
+}
+
+.pic2{
+    width: 12cm;
+    border-radius: 8px;
+    border: 10px solid black;
+
+}
+
+.pic3{
+    width: 6cm;
+    border-radius: 8px;
+    border: 10px solid white;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    padding: 5px;
+}
+
+p{
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+ul{
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+a{
+    color: white;
+    font-family: 'Orbitron', sans-serif;   
+    text-align: center;
+}
